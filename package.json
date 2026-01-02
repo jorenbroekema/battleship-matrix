@@ -1,0 +1,19 @@
+{
+  "name": "battleship-matrix",
+  "version": "1.0.0",
+  "description": "Codility battleship exercise solution",
+  "type": "module",
+  "scripts": {
+    "test": "node run-tests.ts"
+  },
+  "engines": {
+    "node": ">25.0.0"
+  },
+  "keywords": [],
+  "author": "Joren Broekema <joren.broekema@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "typescript": "^5.9.3"
+  }
+}
